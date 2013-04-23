@@ -1,6 +1,6 @@
 #TO-DO-List
 
-_To-do list for lgics projects_
+_To-do list for cafogen projects_
 
 ### Formatting system:
 
@@ -11,47 +11,13 @@ _To-do list for lgics projects_
 
 ## Private Notes and Lists
 
-### Rashed's Notes:
-
- * Add rename jellybean branches to jellybean-stable
- * Add jb-aosp, jb-aokp, jb-miui branches
- * Import KGSL-3D0 error https://github.com/TheWhisp/android_kernel_samsung_msm7x27a/commit/fe5d94c652da0fbf20b71e6532a1a5b64ec7fba1
-
-### Bytecode's Notes:
-
- * Make a jb-aokp branch in device and vendor trees
 
 ## Public TODO
 
 ### Common
 
- * Update power profile
- * Add CMUpdater overlay
+ * start forking the needed repos from cyanogenmod
+ * add the caf branches to the repos so we can see the needed commits properly
 
-### Vendor
-
- * Nothing
-
-### Kernel
-
- * Try this: https://github.com/TheWhisp/android_kernel_samsung_msm7x27/commit/69c2611b21f6dada102026bda3497ef90c4cadc0
- * __Import more fixes https://www.codeaurora.org/gitweb/quic/la/?p=kernel/msm.git;a=commit;h=a77eca6cee55531e81e21d83b474563f9c143e77__
- * Fix battery drain
- * Finish merging candiedIce kernel with LGICS kernel
-
-#### P500
-
- Nothing
-
-#### P505
-
- Nothing
-
-#### P506
-
- Nothing
-
-#### P509
-
- Nothing
-
+#### cybojenix
+ * __begin working on phone, mms, and launcher (23/04/13)__
