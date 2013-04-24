@@ -16,7 +16,6 @@ _To-do list for cafogen projects_
 
 ### Common
 
- * start forking the needed repos from cyanogenmod
  * add the caf branches to the repos so we can see the needed commits properly
 
 #### cybojenix
