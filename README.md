@@ -20,3 +20,4 @@ _To-do list for cafogen projects_
 
 #### cybojenix
  * __begin working on phone, mms, and launcher (23/04/13)__
+ * ___creating script___
